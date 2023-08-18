@@ -245,7 +245,6 @@ for i,v in pairs(Pixels) do
     wait(0.3)
 end end
 }
-
 local randomNum = math.random(1, #options)
 
 options[randomNum]()
